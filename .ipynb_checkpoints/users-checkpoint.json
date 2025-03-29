@@ -1,0 +1,62 @@
+{
+    "Alex Parker": {
+        "interests": ["AI", "cybersecurity", "blockchain", "startups", "programming"],
+        "interest_keywords": {
+            "AI": ["artificial intelligence", "deep learning", "machine learning", "neural networks", "LLMs", "generative AI", "NLP"],
+            "Cybersecurity": ["hacking", "data breaches", "malware", "phishing", "ransomware", "encryption", "penetration testing", "cybersecurity threats"],
+            "Blockchain": ["DeFi", "smart contracts", "crypto", "Ethereum", "Bitcoin", "Web3", "NFTs", "decentralization", "DApps"],
+            "Startups": ["venture capital", "fundraising", "unicorns", "IPO", "startup funding", "entrepreneurs", "seed round", "Series A"],
+            "Programming": ["Python", "JavaScript", "Rust", "software engineering", "development", "frameworks", "coding", "open source"]
+        },
+        "sources": ["https://feeds.arstechnica.com/arstechnica/technology-lab.xml"],
+        "country_sources": ["https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"]
+    },
+    "Priya Sharma": {
+        "interests": ["Global markets", "startups", "fintech", "cryptocurrency", "economics"],
+        "interest_keywords": {
+            "Global Markets": ["stock market", "S&P 500", "NASDAQ", "interest rates", "forex", "Dow Jones", "Sensex", "Nifty", "inflation", "recession"],
+            "Startups": ["angel investing", "venture capital", "startup ecosystem", "IPO", "unicorns", "acquisitions", "Silicon Valley", "founders"],
+            "Fintech": ["digital payments", "neobanks", "BNPL (Buy Now Pay Later)", "lending", "DeFi", "peer-to-peer lending", "Insurtech", "regtech"],
+            "Cryptocurrency": ["Bitcoin", "Ethereum", "Solana", "altcoins", "stablecoins", "CBDCs", "Web3", "crypto regulation", "blockchain adoption"],
+            "Economics": ["GDP", "monetary policy", "fiscal policy", "trade wars", "BRICS", "global economy", "economic growth", "central banks"]
+        },
+        "sources": ["https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"],
+        "country_sources": ["https://economictimes.indiatimes.com/rssfeedsdefault.cms"]
+    },
+    "Marco Rossi": {
+        "interests": ["Football", "F1", "NBA", "Olympic sports", "esports"],
+        "interest_keywords": {
+            "Football": ["FIFA", "UEFA", "Champions League", "Premier League", "Serie A", "La Liga", "World Cup", "transfer news", "goals", "VAR"],
+            "F1": ["Formula 1", "Red Bull", "Ferrari", "Mercedes", "pole position", "pit stops", "podium", "Verstappen", "Hamilton", "Grand Prix"],
+            "NBA": ["basketball", "playoffs", "MVP", "LeBron James", "Steph Curry", "three-pointers", "Lakers", "Warriors", "NBA draft", "slam dunk"],
+            "Olympic Sports": ["athletics", "swimming", "gymnastics", "Tokyo 2020", "Paris 2024", "track and field", "medals", "world records"],
+            "Esports": ["gaming tournaments", "League of Legends", "Dota 2", "CS:GO", "Valorant", "Twitch", "gaming sponsorships", "e-athletes"]
+        },
+        "sources": ["https://www.espn.com/espn/rss/news.xml"],
+        "country_sources": ["https://www.gazzetta.it/rss/home.xml"]
+    },
+    "Lisa Thompson": {
+        "interests": ["Movies", "celebrity news", "TV shows", "music", "books"],
+        "interest_keywords": {
+            "Movies": ["Hollywood", "Oscars", "box office", "Marvel", "DC", "film reviews", "directors", "upcoming releases", "trailers"],
+            "Celebrity News": ["scandals", "relationships", "paparazzi", "red carpet", "interviews", "social media drama", "reality TV"],
+            "TV Shows": ["Netflix", "HBO", "binge-watching", "sitcoms", "series finale", "renewals", "cancellations", "ratings", "streaming wars"],
+            "Music": ["Billboard charts", "Grammy Awards", "pop", "hip-hop", "rock", "album releases", "concerts", "tours", "music festivals"],
+            "Books": ["bestsellers", "fiction", "non-fiction", "authors", "book adaptations", "Kindle", "literature", "publishing industry"]
+        },
+        "sources": ["https://www.tmz.com/rss.xml"],
+        "country_sources": ["https://www.theguardian.com/uk/culture/rss"]
+    },
+    "David Martinez": {
+        "interests": ["Space exploration", "AI", "biotech", "physics", "renewable energy"],
+        "interest_keywords": {
+            "Space Exploration": ["NASA", "SpaceX", "Mars missions", "Artemis", "satellites", "astronauts", "ISS", "lunar exploration", "black holes"],
+            "AI": ["deep learning", "machine learning", "robotics", "automation", "artificial general intelligence", "neural networks"],
+            "Biotech": ["gene editing", "CRISPR", "DNA sequencing", "pharma", "drug discovery", "medical technology", "biotech startups"],
+            "Physics": ["quantum mechanics", "CERN", "Higgs boson", "relativity", "black hole theories", "nuclear physics", "theoretical physics"],
+            "Renewable Energy": ["solar power", "wind energy", "batteries", "EVs", "sustainable tech", "net zero", "climate change", "green hydrogen"]
+        },
+        "sources": ["http://rss.sciam.com/ScientificAmerican-Global.xml"],
+        "country_sources": ["https://www.elmundo.es/rss/ciencia-y-salud.xml"]
+    }
+}
